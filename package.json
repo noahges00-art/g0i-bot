@@ -1,0 +1,14 @@
+{
+  "name": "g0i-ticket-bot",
+  "version": "4.0.0",
+  "description": "g0i Discord bot v4 with invite tracker and member logging",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.0",
+    "mongoose": "^7.0.0"
+  }
+}
